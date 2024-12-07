@@ -23,10 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Demo GIF](https://i.imgur.com/wt5gBYS.gif)
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/78ac4e0f-d8bb-4a98-9f35-3e76b19eb91c)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Clipchamp
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
